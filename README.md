@@ -1,4 +1,4 @@
-Il file ... è il progetto finale in formato pdf
+Il file BW_2_ è il progetto finale in formato pdf
 
 
 Nelle diverse cartelle si possono trovare i diversi file imagine utilizzati nel reporto suddivisi per giorni/traccia.
